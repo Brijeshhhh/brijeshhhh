@@ -1,11 +1,11 @@
-<h1 align="center">Myself BRIJESH</h1>
+<h1 align="center">BRIJESH HERE</h1>
 <h3 align="center">Driven CS Student | Aspiring Developer | Enthusiastic About Innovation in Tech</h3>
 
-- I’m currently learning and working on **Spring framework**
+- I’m currently learning and working on **Spring framework and JAVA**
 
 - Ask me about concepts in **DSA , DBMS , OS , System design , Core JAVA and CPP , RESTful web services**
 
-- reach me at **balajitex2020@gmail.com**
+- reach me out at **balajitex2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
