@@ -1,4 +1,4 @@
-<h1 align="center">BRIJESH HERE</h1>
+<h1 align="center">BRIJESH BABU</h1>
 <h3 align="center">Driven CS Student | Aspiring Developer | Enthusiastic About Innovation in Tech</h3>
 
 - I’m currently learning and working on **Spring framework and JAVA**
