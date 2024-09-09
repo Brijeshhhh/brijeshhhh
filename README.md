@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently a student <br>👯 I’m looking to collaborate <br>🤝 I’m looking for help with getting first tech job<br>🌱 I’m currently learning latest techs<br>💬 Ask me about SPRING , Machine Learning , WEB tech<br>
+<h1 align="center">BRIJESH BABU</h1>
+
+<h3 align="center">Driven CS Student | Aspiring Developer | Enthusiastic About Innovation in Tech</h3>
+
+- I’m currently learning and working on **Spring framework and JAVA**
+- I’m currently learning and working on **Spring framework**
+
+- Ask me about concepts in **DSA , DBMS , OS , System design , Core JAVA and CPP , RESTful web services**
+
+- reach me out at **balajitex2020@gmail.com**
 
 
 ## 🌐 Socials:
