@@ -10,8 +10,8 @@
 
 
 ##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brij3shh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brijesh-babu-0bb7b0228/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23645141) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@BRIJESH-BABU) [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/brijeshhhh) 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/BRIJESH_21cs024)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brij3shh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brijesh-babu-0bb7b0228/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23645141) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@BRIJESH-BABU) [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/BRIJESH_21cs024) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/brijeshhhh)
 
 
 # Tech Stack:
