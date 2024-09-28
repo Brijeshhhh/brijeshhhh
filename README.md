@@ -2,7 +2,7 @@
 
 <h3 align="center">Driven CS Student | Aspiring Developer | Enthusiastic About Innovation in Tech</h3>
 
-- I’m currently learning and working on **Springboot framework and JAVA**
+- I’m currently learning and working on **JAVA and C++ programming**
 - I've worked on **Web technology and Machine Learning projects**
 - Ask me about concepts in **DSA , DBMS , OS , System design , Core JAVA and CPP , RESTful web services**
 
